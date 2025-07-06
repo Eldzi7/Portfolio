@@ -41,8 +41,8 @@
 - Przeciwnicy tracą więcej bramek niż średnia ligowa i tworzą mniej okazji do zdobycia bramki na mecz niż średnia ligowa
 
 ## Project 3: Analiza zamówień - dostawy jedzenia
-**Cel:** Analiza liczby zamówień i średniego czasu dostawy w zależności od typu obszaru
-**Kluczowe wnioski:**
+- **Cel:** Analiza liczby zamówień i średniego czasu dostawy w zależności od typu obszaru
+- **Kluczowe wnioski:**
 - Średni czas dostawy jest znacznie krótszy w obszarach metropolitalnych i miejskich w porównaniu do obszarów podmiejskich
 - Większość zamówień została dostarczona w obszarze metropolitalnym
 - Zamówienia były składane głównie w marcu 2022
