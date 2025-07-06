@@ -4,7 +4,7 @@
 - **Objective:** Analyze performance of Premier League teams located in London municipality area
 - **Key Insights:**
 - Chelsea invests heavily in youngsters and receive bookings the most often among London football teams
-- Clubs with the highest average ball possession have the highest xG and score the most goals (Arsenal the most effective in goals scored vs xG)
+- Clubs with the highest average ball possession have the highest expected goals index (xG) and score the most goals (Arsenal the most effective in goals scored vs xG)
 - Only Brentford among London teams scored fewer goals than expected (Goals scored vs xG)
 
 ## Project 2: Talent identification and opposition analysis
@@ -29,7 +29,7 @@
 - **Cel:** Analiza wyników drużyn Premier League zlokalizowanych w rejonie miejskim Londynu
 - **Kluczowe wnioski:**
 - Chelsea intensywnie inwestuje w młodych zawodników i otrzymuje najwięcej kartek spośród londyńskich drużyn piłkarskich
-- Kluby z najwyższym średnim posiadaniem piłki mają najwyższe xG i zdobywają najwięcej bramek (Arsenal najskuteczniejszy pod względem liczby bramek vs xG)
+- Kluby z najwyższym średnim posiadaniem piłki mają najwyższy wskaźnik goli oczekiwanych (xG) i zdobywają najwięcej bramek (Arsenal najskuteczniejszy pod względem liczby bramek vs xG)
 - Tylko Brentford spośród londyńskich drużyn zdobył mniej bramek niż oczekiwano (Bramki zdobyte vs xG)
 
 ## Projekt 2: Identyfikacja talentu i analiza gry przeciwnika
@@ -43,7 +43,7 @@
 ## Project 3: Analiza zamówień - dostawy jedzenia
 **Cel:** Analiza liczby zamówień i średniego czasu dostawy w zależności od typu obszaru
 **Kluczowe wnioski:**
-- Średni czas dostawy jest znacznie krótszy w obszarach metropolitalnych i miejskich w porównaniu do półmiejskich
+- Średni czas dostawy jest znacznie krótszy w obszarach metropolitalnych i miejskich w porównaniu do obszarów podmiejskich
 - Większość zamówień została dostarczona w obszarze metropolitalnym
 - Zamówienia były składane głównie w marcu 2022
 - Im krótszy czas dostawy, tym wyższa ocena dostawcy
