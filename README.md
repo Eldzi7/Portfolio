@@ -1,7 +1,7 @@
 # My Power BI Portfolio - ENG version:
 
 ## 📊 Project 1: Premier League Dashboard
-![Premier League Dashboard](assets/premier_league_dashboard.png)
+![Premier League Dashboard](Portfolio/assets/Premier_league_dashboard.png)
 - **Objective:** Analyze performance of Premier League teams located in London municipality area
 - **Key Insights:**
 - Chelsea invests heavily in youngsters and receive bookings the most often among London football teams
