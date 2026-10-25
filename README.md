@@ -24,6 +24,7 @@
 
 ## 📊 Project 2: Premier League - London Teams Dashboard
 **Objective:** Analyze performance of Premier League teams located in London municipality area
+
 **Key Insights:**
 - Chelsea invests heavily in youngsters and receive bookings the most often among London football teams
 - Clubs with the highest average ball possession have the highest expected goals index (xG) and score the most goals (Arsenal the most effective in goals scored vs xG)
@@ -35,8 +36,10 @@ Only Brentford among London teams scored fewer goals than expected (Goals scored
 
 ## 📊 Project 3: Talent identification and opposition analysis
 **Objective:** Identify the most talented player to join the football team, provide opposition analysis
+
 **Key Insights:**
 Talent identification: Alex Johnson selected as the most versatile player
+
 **Opposition analysis**:
 - Opponents are very accurate at shooting - higher average of goals scored per game vs average xG per game, due to shooting for close range, eager to press high to win the ball
 - Opponents concede more goals than league average and create fewer chances to score per game than league average
