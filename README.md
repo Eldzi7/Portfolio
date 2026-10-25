@@ -28,7 +28,7 @@
 **Key Insights:**
 - Chelsea invests heavily in youngsters and receive bookings the most often among London football teams
 - Clubs with the highest average ball possession have the highest expected goals index (xG) and score the most goals (Arsenal the most effective in goals scored vs xG)
-Only Brentford among London teams scored fewer goals than expected (Goals scored vs xG)
+- Only Brentford among London teams scored fewer goals than expected (Goals scored vs xG)
 
 ## Screenshots:
 - <img width="659" height="380" alt="image" src="https://github.com/user-attachments/assets/f364aba0-9285-429f-b915-5de6ae3a8f54" />
