@@ -1,4 +1,4 @@
-# My Power BI Portfolio - ENG version:
+# My Power BI Portfolio:
 
 ## 📊 Project 1: Premier League Dashboard
 - **Objective:** Analyze performance of Premier League teams in 2025/2026 season
@@ -29,7 +29,7 @@ Only Brentford among London teams scored fewer goals than expected (Goals scored
 
 ## Screenshots:
 - <img width="659" height="380" alt="image" src="https://github.com/user-attachments/assets/f364aba0-9285-429f-b915-5de6ae3a8f54" />
-
+-------------------------------------------------------------------------------------------------------
 
 ## 📊 Project 3: Talent identification and opposition analysis
 - **Objective:** Identify the most talented player to join the football team, provide opposition analysis
