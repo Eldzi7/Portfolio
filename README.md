@@ -22,8 +22,10 @@
 - Opponents are very accurate at shooting - higher average of goals scored per game vs average xG per game, due to shooting for close range, eager to press high to win the ball
 - Opponents concede more goals than league average and create fewer chances to score per game than league average
 
-- **Screenshots:**
+- *Screenshots:*
 - <img width="622" height="359" alt="image" src="https://github.com/user-attachments/assets/36330106-1682-41ff-b640-6608c8d5355c" />
+<img width="622" height="358" alt="image" src="https://github.com/user-attachments/assets/fe8feb17-1377-4304-bb8f-6096249e4805" />
+
 
 --------------------------------------------------------------------------------------------------------------------
 # Moje portfolio Power BI - wersja PL
