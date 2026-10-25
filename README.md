@@ -12,8 +12,8 @@
 - Matches between a champion and the runner-up are rarely decisive for winning the league, they often end in a draw or future champion losing the match
 
 ## Screenshots:
-  <img width="589" height="326" alt="image" src="https://github.com/user-attachments/assets/bba8b1a4-2274-4575-8c56-fa13e67a9413" />
-  <img width="589" height="330" alt="image" src="https://github.com/user-attachments/assets/e8041820-8d67-4c14-9611-59cc02c85e11" />
+- <img width="589" height="326" alt="image" src="https://github.com/user-attachments/assets/bba8b1a4-2274-4575-8c56-fa13e67a9413" />
+- <img width="589" height="330" alt="image" src="https://github.com/user-attachments/assets/e8041820-8d67-4c14-9611-59cc02c85e11" />
 - <img width="589" height="331" alt="image" src="https://github.com/user-attachments/assets/1266ff92-9d25-43f6-a015-c59b5bf6c2be" />
 - <img width="589" height="329" alt="image" src="https://github.com/user-attachments/assets/93d483c1-2278-48aa-9975-521d9dc1d296" />
 - <img width="588" height="329" alt="image" src="https://github.com/user-attachments/assets/7f77b3cc-3b81-4f28-aad5-5f259ecf7808" />
