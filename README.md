@@ -1,8 +1,8 @@
 # My Power BI Portfolio:
 
 ## 📊 Project 1: Premier League Dashboard
-- **Objective:** Analyze performance of Premier League teams in 2025/2026 season
-- **Key Insights:**
+**Objective:** Analyze performance of Premier League teams in 2025/2026 season
+**Key Insights:**
 - Tottenham no longer a part of "Big 6"
 - Manchester City is the best Premier League team since 2020/21 season, other teams in top 6 are: Liverpool, Arsenal, Chelsea, Manchester United and Aston Villa
 - Amassing 36 points is typically enough to avoid relegation, home performance is crucial
@@ -22,10 +22,10 @@
 -------------------------------------------------------------------------------------------------------
 
 ## 📊 Project 2: Premier League - London Teams Dashboard
-- **Objective:** Analyze performance of Premier League teams located in London municipality area
-- **Key Insights:**
-Chelsea invests heavily in youngsters and receive bookings the most often among London football teams
-Clubs with the highest average ball possession have the highest expected goals index (xG) and score the most goals (Arsenal the most effective in goals scored vs xG)
+**Objective:** Analyze performance of Premier League teams located in London municipality area
+**Key Insights:**
+- Chelsea invests heavily in youngsters and receive bookings the most often among London football teams
+- Clubs with the highest average ball possession have the highest expected goals index (xG) and score the most goals (Arsenal the most effective in goals scored vs xG)
 Only Brentford among London teams scored fewer goals than expected (Goals scored vs xG)
 
 ## Screenshots:
@@ -33,10 +33,10 @@ Only Brentford among London teams scored fewer goals than expected (Goals scored
 -------------------------------------------------------------------------------------------------------
 
 ## 📊 Project 3: Talent identification and opposition analysis
-- **Objective:** Identify the most talented player to join the football team, provide opposition analysis
-- **Key Insights:**
+**Objective:** Identify the most talented player to join the football team, provide opposition analysis
+**Key Insights:**
 Talent identification: Alex Johnson selected as the most versatile player
-- **Opposition analysis**:
+**Opposition analysis**:
 - Opponents are very accurate at shooting - higher average of goals scored per game vs average xG per game, due to shooting for close range, eager to press high to win the ball
 - Opponents concede more goals than league average and create fewer chances to score per game than league average
 
