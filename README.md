@@ -20,7 +20,7 @@
  <img width="588" height="329" alt="image" src="https://github.com/user-attachments/assets/7f77b3cc-3b81-4f28-aad5-5f259ecf7808" />
  <img width="589" height="329" alt="image" src="https://github.com/user-attachments/assets/93ee0e1d-8bcd-4fd5-973c-f849b976f96b" />
  <img width="590" height="329" alt="image" src="https://github.com/user-attachments/assets/d5b359b3-9eae-4c9d-af70-f5003080c482" />
--------------------------------------------------------------------------------------------------------
+
 
 ## 📊 Project 2: Premier League - London Teams Dashboard
 **Objective:** Analyze performance of Premier League teams located in London municipality area
@@ -31,8 +31,8 @@
 - Only Brentford among London teams scored fewer goals than expected (Goals scored vs xG)
 
 ## Screenshots:
-- <img width="659" height="380" alt="image" src="https://github.com/user-attachments/assets/f364aba0-9285-429f-b915-5de6ae3a8f54" />
--------------------------------------------------------------------------------------------------------
+ <img width="659" height="380" alt="image" src="https://github.com/user-attachments/assets/f364aba0-9285-429f-b915-5de6ae3a8f54" />
+
 
 ## 📊 Project 3: Talent identification and opposition analysis
 **Objective:** Identify the most talented player to join the football team, provide opposition analysis
@@ -45,5 +45,5 @@ Talent identification: Alex Johnson selected as the most versatile player
 - Opponents concede more goals than league average and create fewer chances to score per game than league average
 
 ## Screenshots:
-- <img width="622" height="359" alt="image" src="https://github.com/user-attachments/assets/36330106-1682-41ff-b640-6608c8d5355c" />
-- <img width="622" height="358" alt="image" src="https://github.com/user-attachments/assets/fe8feb17-1377-4304-bb8f-6096249e4805" />
+ <img width="622" height="359" alt="image" src="https://github.com/user-attachments/assets/36330106-1682-41ff-b640-6608c8d5355c" />
+ <img width="622" height="358" alt="image" src="https://github.com/user-attachments/assets/fe8feb17-1377-4304-bb8f-6096249e4805" />
