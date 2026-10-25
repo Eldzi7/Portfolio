@@ -17,8 +17,8 @@
 ## 📊 Project 3: Talent identification and opposition analysis
 - **Objective:** Identify the most talented player to join the football team, provide opposition analysis
 - **Key Insights:**
-- Talent identification: Alex Johnson selected as the most versatile player
-- Opposition analysis:
+Talent identification: Alex Johnson selected as the most versatile player
+- **Opposition analysis**:
 - Opponents are very accurate at shooting - higher average of goals scored per game vs average xG per game, due to shooting for close range, eager to press high to win the ball
 - Opponents concede more goals than league average and create fewer chances to score per game than league average
 
