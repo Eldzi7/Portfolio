@@ -3,13 +3,13 @@
 ## 📊 Project 1: Premier League Dashboard
 - **Objective:** Analyze performance of Premier League teams in 2025/2026 season
 - **Key Insights:**
-- Tottenham is no longer a part of "Big 6"
+- Tottenham no longer a part of "Big 6"
 - Manchester City is the best Premier League team since 2020/21 season, other teams in top 6 are: Liverpool, Arsenal, Chelsea, Manchester United and Aston Villa
 - Amassing 36 points is typically enough to avoid relegation, home performance is crucial
 - The champion typically is in top 3 at shots on target allowed and crosses allowed per match
 - Being in top 3 at ball touches in the box and key passes per match is crucial for winning the league
 - The most dominant team is likely to win the league (shots on target and high xG is very important)
-- Matches between a champion and the runner-up are rarely decisive for winning the league, they often end in a draw or future champion losing the match 
+- Matches between a champion and the runner-up are rarely decisive for winning the league, they often end in a draw or future champion losing the match
 
 ## Screenshots:
 - <img width="589" height="326" alt="image" src="https://github.com/user-attachments/assets/bba8b1a4-2274-4575-8c56-fa13e67a9413" />
@@ -19,6 +19,7 @@
 - <img width="588" height="329" alt="image" src="https://github.com/user-attachments/assets/7f77b3cc-3b81-4f28-aad5-5f259ecf7808" />
 - <img width="589" height="329" alt="image" src="https://github.com/user-attachments/assets/93ee0e1d-8bcd-4fd5-973c-f849b976f96b" />
 - <img width="590" height="329" alt="image" src="https://github.com/user-attachments/assets/d5b359b3-9eae-4c9d-af70-f5003080c482" />
+-------------------------------------------------------------------------------------------------------
 
 ## 📊 Project 2: Premier League - London Teams Dashboard
 - **Objective:** Analyze performance of Premier League teams located in London municipality area
@@ -42,4 +43,3 @@ Talent identification: Alex Johnson selected as the most versatile player
 ## Screenshots:
 - <img width="622" height="359" alt="image" src="https://github.com/user-attachments/assets/36330106-1682-41ff-b640-6608c8d5355c" />
 - <img width="622" height="358" alt="image" src="https://github.com/user-attachments/assets/fe8feb17-1377-4304-bb8f-6096249e4805" />
-
