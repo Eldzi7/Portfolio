@@ -2,6 +2,7 @@
 
 ## 📊 Project 1: Premier League Dashboard
 **Objective:** Analyze performance of Premier League teams in 2025/2026 season
+
 **Key Insights:**
 - Tottenham no longer a part of "Big 6"
 - Manchester City is the best Premier League team since 2020/21 season, other teams in top 6 are: Liverpool, Arsenal, Chelsea, Manchester United and Aston Villa
